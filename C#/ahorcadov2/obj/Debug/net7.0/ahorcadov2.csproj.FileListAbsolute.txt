@@ -1,0 +1,15 @@
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\bin\Debug\net7.0\ahorcadov2.exe
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\bin\Debug\net7.0\ahorcadov2.deps.json
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\bin\Debug\net7.0\ahorcadov2.runtimeconfig.json
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\bin\Debug\net7.0\ahorcadov2.dll
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\bin\Debug\net7.0\ahorcadov2.pdb
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\obj\Debug\net7.0\ahorcadov2.csproj.AssemblyReference.cache
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\obj\Debug\net7.0\ahorcadov2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\obj\Debug\net7.0\ahorcadov2.AssemblyInfoInputs.cache
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\obj\Debug\net7.0\ahorcadov2.AssemblyInfo.cs
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\obj\Debug\net7.0\ahorcadov2.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\obj\Debug\net7.0\ahorcadov2.dll
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\obj\Debug\net7.0\refint\ahorcadov2.dll
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\obj\Debug\net7.0\ahorcadov2.pdb
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\obj\Debug\net7.0\ahorcadov2.genruntimeconfig.cache
+D:\ESCRITORIO\Diveria\Bootcamp\C#\ahorcadov2\obj\Debug\net7.0\ref\ahorcadov2.dll

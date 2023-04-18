@@ -1,0 +1,2 @@
+SELECT CLIENTES.[idPersona]
+  FROM  [DBEjemplo].[dbo].[CLIENTES] INNER JOIN DBEjemplo.dbo.PROVEEDOR ON CLIENTES.IdPersona = PROVEEDOR.IdPersona
