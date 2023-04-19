@@ -75,7 +75,7 @@ public class Hang
     {
         this._lives--;
     }
-    public bool checkLoose()
+    public bool checkLose()
     {
         return this._lives == 0;
     }

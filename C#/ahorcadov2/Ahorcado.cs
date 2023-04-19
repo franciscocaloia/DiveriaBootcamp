@@ -17,14 +17,17 @@ namespace ahorcado
         }
         private void play()
         {
-            bool win;
+            bool win, lose;
             this.displayGame();
             do
             {
                 this.readUserInput();
                 this.displayGame();
-            } while (!this.hang.checkLoose() && !(win = this.wordToGuess.checkWin()));
-
+                win = this.wordToGuess.checkWin();
+                lose = this.hang.checkLose();
+            } while (!lose && !win);
+            if (win) this.displayWin();
+            if (lose) this.displayLose();
         }
         private void test()
         {
@@ -42,9 +45,11 @@ namespace ahorcado
 
         private void displayLose()
         {
-            Console.Clear();
-            this.hang.displayHang();
             Console.WriteLine("FIN DEL JUEGO: VIDAS AGOTADAS");
+        }
+        private void displayWin()
+        {
+            Console.WriteLine("FIN DEL JUEGO: PALABRA ADIVINADA");
         }
         private void readUserInput()
         {
