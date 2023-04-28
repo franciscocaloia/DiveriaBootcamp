@@ -17,17 +17,14 @@ namespace ahorcado
         }
         private void play()
         {
-            bool win, lose;
             this.displayGame();
             do
             {
                 this.readUserInput();
                 this.displayGame();
-                win = this.wordToGuess.checkWin();
-                lose = this.hang.checkLose();
-            } while (!lose && !win);
-            if (win) this.displayWin();
-            if (lose) this.displayLose();
+            } while (!this.hang.checkLose() && !this.wordToGuess.checkWin());
+            if (this.wordToGuess.checkWin()) this.displayWin();
+            if (this.hang.checkLose()) this.displayLose();
         }
         private void test()
         {
